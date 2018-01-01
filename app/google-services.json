@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "590424498780",
+    "firebase_url": "https://fictor-pac.firebaseio.com",
+    "project_id": "fictor-pac",
+    "storage_bucket": "fictor-pac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590424498780:android:e0de92d15bbe1438",
+        "android_client_info": {
+          "package_name": "com.example.asus.fictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590424498780-1p1l5arsmqnfor82par3fm8crbpe40pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHM4ap3Nk7MyZ5CcazFanL6xIXO1gNR8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
